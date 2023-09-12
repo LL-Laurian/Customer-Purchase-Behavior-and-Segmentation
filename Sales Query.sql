@@ -1,17 +1,24 @@
 SELECT * FROM Project1.sales_data_sample;
 
 -- Checking unique values
-SELECT DISTINCT status FROM sales_data_sample -- Nice one to plot
-SELECT DISTINCT year_id FROM sales_data_sample
-SELECT DISTINCT PRODUCTLINE FROM sales_data_sample -- Nice to plot
-SELECT DISTINCT COUNTRY FROM sales_data_sample -- Nice to plot
-SELECT DISTINCT DEALSIZE FROM sales_data_sample -- Nice to plot
-SELECT DISTINCT TERRITORY FROM sales_data_sample -- Nice to plot
+SELECT DISTINCT status FROM sales_data_sample; -- Nice one to plot
+SELECT DISTINCT year_id FROM sales_data_sample;
+SELECT DISTINCT PRODUCTLINE FROM sales_data_sample; -- Nice to plot
+SELECT DISTINCT COUNTRY FROM sales_data_sample; -- Nice to plot
+SELECT DISTINCT DEALSIZE FROM sales_data_sample; -- Nice to plot
+SELECT DISTINCT TERRITORY FROM sales_data_sample; -- Nice to plot
 
 SELECT DISTINCT MONTH_ID FROM sales_data_sample
-WHERE year_id= 2005
-ORDER BY month_id
+WHERE year_id = 2003
+ORDER BY month_id;
 
+SELECT DISTINCT MONTH_ID FROM sales_data_sample
+WHERE year_id = 2004
+ORDER BY month_id;
+
+SELECT DISTINCT MONTH_ID FROM sales_data_sample
+WHERE year_id = 2005
+ORDER BY month_id;
 -- Analysis
 -- Grouping sales by productline
 SELECT
@@ -19,7 +26,7 @@ SELECT
     Sum(sales) AS revenue
 FROM sales_data_sample
 GROUP BY productline
-ORDER BY revenue DESC
+ORDER BY revenue DESC;
 
 -- checking the sales accross the year
 SELECT
@@ -27,7 +34,7 @@ SELECT
     Sum(sales) AS revenue
 FROM sales_data_sample
 GROUP BY year_id
-ORDER BY revenue DESC #FOUND 2005 is much less tha the other 2 years. By line 11-13, we found that not all the months are shown in 2005
+ORDER BY revenue DESC; #FOUND 2005 is much less tha the other 2 years. By line 11-13, we found that not all the months are shown in 2005
 
 -- checking the dealsize (S/m/l) accross the year
 SELECT
@@ -35,7 +42,7 @@ SELECT
     Sum(sales) AS revenue
 FROM sales_data_sample
 GROUP BY dealsize
-ORDER BY revenue DESC
+ORDER BY revenue DESC;
 
 -- ------------------------------------------------------------------------------------------------------------------
 -- What was the best month for sales in a specific year? How much was earned that month? And what earn the most for those highest months?
