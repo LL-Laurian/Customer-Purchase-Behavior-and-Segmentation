@@ -75,9 +75,15 @@ The dashboard can include various visualizations and insights generated from the
 - Top Product Pairs.
 - Buying Set Distribution
 
-![Sales Dash 1](./Slaes Dash1.pdf)
-![Sales Dash 2](./Slaes Dash2.pdf)
-![Sales Dash 3](./Slaes Dash3.pdf)
+<div align=center>
+<img src="https://github.com/LL-Laurian/Customer-Purchase-Behavior-and-Segmentation/blob/main/image_src/Sales%20Dash1.png">
+</div>
+<div align=center>
+<img src="https://github.com/LL-Laurian/Customer-Purchase-Behavior-and-Segmentation/blob/main/image_src/Sales%20Dash2.png">
+</div>
+<div align=center>
+<img src="https://github.com/LL-Laurian/Customer-Purchase-Behavior-and-Segmentation/blob/main/image_src/Sales%20Dash3.png">
+</div>
 
 
 ## Conclusion and Insights<a name="conclusion_and_insights"></a>
