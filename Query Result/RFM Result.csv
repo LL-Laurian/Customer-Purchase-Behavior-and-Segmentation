@@ -1,0 +1,93 @@
+CUSTOMERNAME,COUNTRY,rfm_recency,rfm_frequency,rfm_monetary,rfm_segment
+"Boards & Toys Co.",USA,3,1,1,"new customers"
+"Atelier graphique",France,2,1,1,lost_customers
+"Auto-Moto Classics Inc.",USA,3,1,1,"new customers"
+"Microscale Inc.",USA,2,1,1,lost_customers
+"Royale Belge",Belgium,3,1,1,"new customers"
+"Bavarian Collectables Imports, Co.",Germany,1,1,1,lost_customers
+"Double Decker Gift Stores, Ltd",UK,1,1,1,lost_customers
+"Cambridge Collectables Co.",USA,1,1,1,lost_customers
+"West Coast Collectables Co.",USA,1,1,1,lost_customers
+"Men 'R' US Retailers, Ltd.",USA,1,1,1,lost_customers
+"CAF Imports",Spain,1,1,1,lost_customers
+"Signal Collectibles Ltd.",USA,1,1,1,lost_customers
+"Mini Auto Werke",Austria,3,1,1,"new customers"
+"Iberia Gift Imports, Corp.",Spain,1,1,1,lost_customers
+"Online Mini Collectables",USA,1,1,1,lost_customers
+"Gift Ideas Corp.",USA,3,1,1,"new customers"
+"Clover Collections, Co.",Ireland,1,1,1,lost_customers
+"Australian Gift Network, Co",Australia,3,1,1,"new customers"
+"Australian Collectables, Ltd",Australia,4,2,1,NULL
+"Auto Assoc. & Cie.",France,1,1,1,lost_customers
+"Classic Gift Ideas, Inc",USA,2,2,1,NULL
+"Osaka Souveniers Co.",Japan,1,2,1,lost_customers
+"Daedalus Designs Imports",France,1,2,1,lost_customers
+"Alpha Cognac",France,4,2,2,active
+"Diecast Collectables",USA,1,1,2,lost_customers
+"Quebec Home Shopping Network",Canada,4,2,2,active
+"Mini Wheels Co.",USA,2,2,2,"potential churners"
+"Royal Canadian Collectables, Ltd.",Canada,1,3,2,lost_customers
+"Marseille Mini Autos",France,3,2,2,"potential churners"
+"Petit Auto",Belgium,4,2,2,active
+"Canadian Gift Exchange Network",Canada,2,2,2,"potential churners"
+"Volvo Model Replicas, Co",Sweden,2,1,2,lost_customers
+"Classic Legends Inc.",USA,2,2,2,"potential churners"
+giftsbymail.co.uk,UK,2,3,2,NULL
+"Enaco Distributors",Spain,2,2,2,"potential churners"
+"Lyon Souveniers",France,4,2,2,active
+"Norway Gifts By Mail, Co.",Norway,1,2,2,lost_customers
+"Super Scale Inc.",USA,1,1,2,lost_customers
+"Mini Caravy",France,4,1,2,NULL
+"Collectables For Less Inc.",USA,3,2,2,"potential churners"
+"Signal Gift Stores",USA,3,3,2,active
+Gifts4AllAges.com,USA,4,3,2,active
+"Tekni Collectables Inc.",USA,4,2,2,active
+"Motor Mint Distributors Inc.",USA,2,2,2,"potential churners"
+"Blauer See Auto, Co.",Germany,2,2,2,"potential churners"
+"Mini Classics",USA,2,3,2,NULL
+"Collectable Mini Designs Co.",USA,1,2,3,lost_customers
+"Vitachrome Inc.",USA,2,2,3,"potential churners"
+"Stylish Desk Decors, Co.",UK,3,3,3,active
+"Auto Canal Petit",France,4,3,3,loyal
+"Cruz & Sons Co.",Philippines,2,2,3,"potential churners"
+"Amica Models & Co.",Italy,1,3,3,"slipping away, cannot lose"
+"La Corne D'abondance, Co.",France,2,2,3,"potential churners"
+FunGiftIdeas.com,USA,3,3,3,active
+"Toms Spezialitten, Ltd",Germany,2,3,3,"potential churners"
+"Heintze Collectables",Denmark,2,3,3,"potential churners"
+"Gift Depot Inc.",USA,4,2,3,NULL
+"Marta's Replicas Co.",USA,1,3,3,"slipping away, cannot lose"
+"Oulu Toy Supplies, Inc.",Finland,3,3,3,active
+Toys4GrownUps.com,USA,3,3,3,active
+"Mini Creations Ltd.",USA,3,4,3,"slipping away, cannot lose"
+"Toys of Finland, Co.",Finland,3,3,3,active
+"Herkku Gifts",Norway,1,3,3,"slipping away, cannot lose"
+"Suominen Souveniers",Finland,3,3,3,active
+"Handji Gifts& Co",Singapore,4,4,3,loyal
+"Baane Mini Imports",Norway,2,3,3,"potential churners"
+"Vida Sport, Ltd",Switzerland,1,3,3,"slipping away, cannot lose"
+"UK Collectables, Ltd.",UK,4,3,3,loyal
+"Tokyo Collectables, Ltd",Japan,4,3,3,loyal
+"Corrida Auto Replicas, Ltd",Spain,2,3,4,NULL
+"Technics Stores Inc.",USA,3,4,4,"slipping away, cannot lose"
+"Diecast Classics Inc.",USA,4,3,4,loyal
+"Online Diecast Creations Co.",USA,2,4,4,"slipping away, cannot lose"
+"Scandinavian Gift Ideas",Sweden,3,4,4,"slipping away, cannot lose"
+"Reims Collectables",France,4,4,4,loyal
+"Rovelli Gifts",Italy,2,4,4,"slipping away, cannot lose"
+"L'ordine Souveniers",Italy,4,4,4,loyal
+"Saveley & Henriot, Co.",France,1,4,4,"slipping away, cannot lose"
+"Danish Wholesale Imports",Denmark,4,4,4,loyal
+"Salzburg Collectables",Austria,4,4,4,loyal
+"Corporate Gift Ideas Co.",USA,3,4,4,"slipping away, cannot lose"
+"Souveniers And Things Co.",Australia,4,4,4,loyal
+"Anna's Decorations, Ltd",Australia,3,4,4,"slipping away, cannot lose"
+"AV Stores, Co.",UK,2,4,4,"slipping away, cannot lose"
+"The Sharp Gifts Warehouse",USA,4,4,4,loyal
+"Land of Toys Inc.",USA,2,4,4,"slipping away, cannot lose"
+"Dragon Souveniers, Ltd.",Singapore,3,4,4,"slipping away, cannot lose"
+"La Rochelle Gifts",France,4,4,4,loyal
+"Muscle Machine Inc",USA,3,4,4,"slipping away, cannot lose"
+"Australian Collectors, Co.",Australia,3,4,4,"slipping away, cannot lose"
+"Mini Gifts Distributors Ltd.",USA,4,4,4,loyal
+"Euro Shopping Channel",Spain,4,4,4,loyal
