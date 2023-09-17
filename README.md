@@ -12,7 +12,8 @@ This README provides an overview of the SQL queries and analyses performed in th
     5. [Top Contributing Countries](#top-contributing-countries)
 3. [Tableau Integration](#tableau-integration)
 4. [Dashboard](#dashboard)
-5. [Conclusion](#conclusion)
+5. [Conclusion and Insights](#conclusion_and_insights)
+
 
 ## Introduction<a name="introduction"></a>
 
@@ -69,12 +70,42 @@ The dashboard can include various visualizations and insights generated from the
 - Customer Distribution by Country.
 - Quantity Distribution.
 - Sales Distribution.
-- RFM Segmentation analysis.
-- Products often sold together.
+- RFM Segmentation Distribution.
+- RFM Segment by Country.
+- Top Product Pairs.
+- Buying Set Distribution
+
+[Sales Dash 1](./Slaes Dash1.pdf)
+[Sales Dash 2](./Slaes Dash2.pdf)
+[Sales Dash 3](./Slaes Dash3.pdf)
 
 
-Make sure to customize the dashboard to meet your specific project requirements and the insights you want to showcase.
+## Conclusion and Insights<a name="conclusion_and_insights"></a>
 
-## Conclusion<a name="conclusion"></a>
+### RFM Segmentation: 
+- "Lost_customer" is the largest RFM segment, highlighting the need for re-engagement strategies.
+- The "slipping away, cannot lose" segment comes second, suggesting that the valuable customers in the "slipping away" segment deserve attention. since they should not be ignored.
+- "Potential churners" and "loyal" segments are roughly balanced., implying a balance between customers showing potential to churn and those demonstrating loyalty.
+- "New customers" form the smallest segment., indicating fewer new customer acquisitions.
+### Country Contribution:
+- The United States (USA) dominates revenue and customer count.
+- Spain and France are after the USA.
 
-This README provides an overview of the SQL queries used to analyze the sales data, guidance on integrating the analysis into Tableau, and suggestions for creating a dashboard. You can further customize and expand the analysis and dashboard based on your project's objectives and audience requirements.
+### Product Line:
+- "Classic Cars" is the leading contributor to revenue, followed by "Motorcycles." 
+- Products with a "Medium" deal size contribute the most to revenue, suggesting that customers prefer this deal size.
+
+### Sales Trends:
+- Across all product lines, there is a noticeable drop in sales. This could indicate a broader market trend or business-specific factors affecting sales performance.
+
+### Monthly Revenue:
+- November consistently has the highest revenue every year, except for 2003, where data is missing from May to December.
+
+### Top Revenue Contributor:
+- Customer "Mini Gifts Distribution" is the top contributor to revenue, and this is from the USA.
+
+### Products Sold Together:
+- Customers most often buy nine items together, followed by fourteen items and then six items. This information can be used to optimize product bundling or marketing strategies.
+
+### Conclusion:
+- Strategies can be developed to re-engage the 'lost_customer' segments, retain valuable 'slipping away' customers, prioritize product lines contributing the highest revenue, such as 'Classic Cars' and 'Motorcycles.' Additionally, proactive efforts can be undertaken to comprehend the sales decline observed across all product lines.
